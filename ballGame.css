@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0 0 0;
+}
+#canvas {
+    background-color: #616161;
+    /* height: 400px;  //must be defined in the HTML otherwise weird elipse
+    width: 500px; */
+}
+body{ margin: 0;}
